@@ -47,3 +47,4 @@ Koristit cemo naponsko djelilo (2/3 otpornika), diodu i kondenzator.
 
 ![image](https://user-images.githubusercontent.com/35042255/168377283-08246aa6-0375-4ab6-853a-3120cd7382c3.png)
 
+
