@@ -3,6 +3,9 @@
 Otvorene platforme za razvoj ugrađenih sustava Projekt: 
 Remote otvaranje ulaznih vratiju s Raspberry Pi-om
 
+![image](https://github.com/user-attachments/assets/c4b73bd2-0914-4b40-bf5a-54e53a702134)
+
+
 •	1. Faza – otvaranje vrata
 
    Pomoću 3.3V releja upravljamo kontakt koji inace uključimo s mehanickom sklopkom(gumbom).
