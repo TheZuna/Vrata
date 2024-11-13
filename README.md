@@ -1,11 +1,10 @@
 # Remote odključavanje vrata
 
 Otvorene platforme za razvoj ugrađenih sustava Projekt: 
-Remote otvaranje ulaznih vratiju s Raspberry Pi-om
+Remote otvaranje ulaznih vratiju s Raspberry Pi-om i 5v relejom
+
+![Leo_Žunić_0246081011_page-0010](https://github.com/user-attachments/assets/75f055bf-19cc-4ede-a739-89e4fbcb4bba)
 ![Leo_Žunić_0246081011_page-0016](https://github.com/user-attachments/assets/fbf978a2-5de5-44fe-934f-d65de1b4077c)
-
-
-
 ![Leo_Žunić_0246081011_page-0026](https://github.com/user-attachments/assets/c007a5af-5b21-41c0-ba47-9a635c638a6f)
 ![Leo_Žunić_0246081011_page-0025](https://github.com/user-attachments/assets/ed353b6d-af95-4f9a-87ac-ab564199d6e6)
 ![Leo_Žunić_0246081011_page-0024](https://github.com/user-attachments/assets/f535daff-20ed-4262-8e13-6ac89d826e56)
