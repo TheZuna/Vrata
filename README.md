@@ -2,6 +2,7 @@
 
 Otvorene platforme za razvoj ugrađenih sustava Projekt: 
 Remote otvaranje ulaznih vratiju s Raspberry Pi-om
+![Leo_Žunić_0246081011_page-0016](https://github.com/user-attachments/assets/fbf978a2-5de5-44fe-934f-d65de1b4077c)
 
 ![image](https://github.com/user-attachments/assets/c4b73bd2-0914-4b40-bf5a-54e53a702134)
 
